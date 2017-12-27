@@ -91,7 +91,7 @@
         <File Source="../Staging/NBTModel.dll" KeyPath="yes" />
       </Component>
       <Component Id="C.Substrate.dll" Guid="*">
-        <File Source="../Staging/Substrate.dll" KeyPath="yes" />
+        <File Source="../Staging/Substrate.net40-client.dll" KeyPath="yes" />
       </Component>
     </ComponentGroup>
 	</Fragment>
